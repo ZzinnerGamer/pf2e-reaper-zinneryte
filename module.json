@@ -1,7 +1,7 @@
 {
   "id": "pf2e-reaper",
   "title": "PF2e Reaper",
-  "version": "1.0.0",
+  "version": "0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -61,5 +61,6 @@
       "system": "pf2e",
       "flags": {}
     }
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/ZzinnerGamer/pf2e-reaper/main/module.json"
 }
