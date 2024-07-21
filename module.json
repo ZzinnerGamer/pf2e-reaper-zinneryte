@@ -62,5 +62,6 @@
       "flags": {}
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/ZzinnerGamer/pf2e-reaper/main/module.json"
+  "manifest": "https://raw.githubusercontent.com/ZzinnerGamer/pf2e-reaper/main/module.json",
+  "download": "https://raw.githubusercontent.com/ZzinnerGamer/pf2e-reaper/main/module.zip"
 }
