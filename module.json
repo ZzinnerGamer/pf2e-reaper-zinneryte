@@ -1,0 +1,65 @@
+{
+  "id": "pf2e-reaper",
+  "title": "PF2e Reaper",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "flags": {
+    "pf2e-reaper": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "soul-1": {
+			  "label": "Soul 1",
+			  "description": "Feats or Soul Arts with this trait require Soul Shards equal to the value listed to activate."
+		  },
+          "soul-2": {
+			  "label": "Soul 2",
+			  "description": "Feats or Soul Arts with this trait require Soul Shards equal to the value listed to activate."
+		  },
+          "soul-3": {
+			  "label": "Soul 3",
+			  "description": "Feats or Soul Arts with this trait require Soul Shards equal to the value listed to activate."
+		  },
+          "harvest": {
+			  "label": "Harvest",
+			  "description": "Class Features, Feats, or Spells with this Trait can either generate Soul Shards, Hit Points, or Temporary HP by harvesting soulforce from a creature. That creature must have something akin to soulforce present within them, living or undead. Almost exclusively this limitation applies Construct."
+		  },
+          "wind-up": {
+			  "label": "Wind Up",
+			  "description": "Feats or Soul Arts with this trait modify and enhance the next Strike you make on your Turn, even if that Strike is part of another Action."
+		  },
+          "reaper": {
+			  "label": "Reaper",
+			  "description": "This indicates abilities from the Reaper class."
+		  }
+		},
+        "spellTraits": {
+          "reaper": {
+			  "label": "Reaper",
+			  "description": "This indicates spells from the Reaper class."
+		  },
+          "harvest": {
+			  "label": "Harvest",
+			  "description": "Class Features, Feats, or Spells with this Trait can either generate Soul Shards, Hit Points, or Temporary HP by harvesting soulforce from a creature. That creature must have something akin to soulforce present within them, living or undead. Almost exclusively this limitation applies Construct."
+		  }
+		}
+	  }
+	}
+  },
+  "packs": [
+    {
+      "name": "reaper-pf2e",
+      "label": "Reaper PF2e",
+      "path": "packs/reaper-pf2e",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
