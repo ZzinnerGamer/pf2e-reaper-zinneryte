@@ -1,7 +1,7 @@
 {
   "id": "pf2e-reaper",
   "title": "PF2e Reaper",
-  "version": "0.1",
+  "version": "0.2",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
