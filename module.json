@@ -1,6 +1,6 @@
 {
-  "id": "pf2e-reaper",
-  "title": "PF2e Reaper",
+  "id": "pf2e-reaper-zinneryte",
+  "title": "PF2e Vyckblade's Reaper (By Zinneryte)",
   "version": "1.0",
   "compatibility": {
     "minimum": "12",
@@ -63,5 +63,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/ZzinnerGamer/pf2e-reaper-zinneryte/main/module.json",
-  "download": "https://github.com/ZzinnerGamer/pf2e-reaper/releases/download/1.0/module.zip"
+  "download": "https://github.com/ZzinnerGamer/pf2e-reaper-zinneryte/archive/refs/heads/main.zip"
 }
